@@ -4,6 +4,7 @@ public class Main {
         try {
             switch (args[0].toLowerCase()) {
                 case "v0" -> System.out.println(V0.func(Double.parseDouble(args[1])));
+                case "v5" -> System.out.println(V2.compute(Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]),Double.parseDouble(args[4])));
                 case "exit" -> {
                     System.out.println("Done");
                     return;
