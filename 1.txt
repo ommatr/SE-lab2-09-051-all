@@ -5,7 +5,8 @@ What do you like more?
 4. Ruby
 5. Python
 6. other
-
+---
 //Your answer
 //example: Васечкин В.В. - 6
 Дряпко А.А. — 6
+-
