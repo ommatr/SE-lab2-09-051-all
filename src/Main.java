@@ -9,6 +9,7 @@ public class Main {
                 case "V4" -> System.out.println(V4.function(Double.parseDouble(args[1]),Double.parseDouble(args[2])));
                 case "v6" -> System.out.println(V6.function(Double.parseDouble(args[1])));
                 case "v10" -> System.out.println(V10.compute(Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]);
+                case "v9" -> System.out.println(V9.urav(Double.parseDouble(args[1]),Double.parseDouble(args[2]),Double.parseDouble(args[3]);
                 case "exit" -> {
                     System.out.println("Done");
                     return;
